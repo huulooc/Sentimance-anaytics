@@ -13,6 +13,9 @@
 - [How to Run](#-how-to-run)
 - [References](#-references)
 
+**READ DETAIL OF REPORT**  
+[https://github.com/huulooc/Sentimance-anaytics/blob/main/report_final.pdf](https://github.com/huulooc/Sentimance-anaytics/blob/main/report_final.pdf)
+
 ---
 
 ## 📌 Introduction
